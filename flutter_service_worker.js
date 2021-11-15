@@ -3,13 +3,19 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6a7af596e40708495af43c27b37de576",
+  "assets/AssetManifest.json": "c2a5f96ef37f7c4723130e9f4643f2ae",
 "assets/assets/android.png": "4a1d31521dfd9c051fc85b562abf0c08",
+"assets/assets/apple.png": "2f2c166780f6979cfe49045ad2fc30b8",
 "assets/assets/background.png": "bd6001ab13133a5fc0893ba65acda503",
+"assets/assets/fav.png": "d9304ba0adef6b9403209c1dea64f381",
+"assets/assets/favcircle.png": "7312f12cac187a335e12742b180b301a",
+"assets/assets/favTransparentCenter.png": "4c5debfbdf4ffba54bb1a6cbd34e4039",
+"assets/assets/google.png": "b109199b1573cbd3c6a3e572985d5f76",
 "assets/assets/iphone.png": "adc8ef567b4d50f0945da3337478511d",
 "assets/assets/moontree_eclipse_dark_transparent.png": "2852eaacb74824e5cf5f07f95670dc21",
 "assets/assets/moontree_logo.png": "1ecd88fc7c03d219177113fb0ed65606",
 "assets/assets/phones.png": "17322c5f932a38b9eb9ca980f2f613b3",
+"assets/assets/png-transparent-google-play-app-store-mobile-phones-google-ink-text-rectangle.png": "54b6bc4935fc27c95635b9cfcf1600f9",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "1f01d13b32a3c38b25748d16c3436183",
@@ -19,9 +25,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "f7c745a2f9177597def2a88b1d4d1aa2",
-"/": "f7c745a2f9177597def2a88b1d4d1aa2",
-"main.dart.js": "77062d17118c82e7a64a00a92fb9947b",
+"index.html": "824f3b819cd6d971393c51795237abf6",
+"/": "824f3b819cd6d971393c51795237abf6",
+"main.dart.js": "b6ba5db32e3b20e0ef307758e86678ce",
 "manifest.json": "1066e4d9e100d9ab59462e0fca03f47e",
 "version.json": "65785171f740470ba8cd16ae8a77bf62"
 };
