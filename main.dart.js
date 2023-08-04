@@ -47338,10 +47338,10 @@ m.toString
 m=A.a5m("Moontree",A.n3(o,o,m,o,o,o,o,o,o,o,o,64,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)
 s=t.R
 r=A.QX(A.a([A.a44(A.MN("google.png",o,o),170,new A.NW(),"Play Store"),B.Cy,A.a44(A.MN("apple.png",o,o),170,new A.NX(),"App Store")],s),B.aU,B.cS,B.bJ)
-q=A.MN("moontree_logo.png",72,72)
+q=A.MN("moontree_logo.png",64,64)
 p=B.M.i(0,200)
 p.toString
-return new A.qQ(A.JO(o,A.a3A(A.a([A.QX(A.a([n,B.Cx,A.a3A(A.a([m,r,A.QX(A.a([q,A.a5m(" made by MoonTree  ",A.n3(o,o,p,o,o,o,o,o,o,o,o,16,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],s),B.aU,B.cS,B.bJ)],s),B.aU,B.cS)],s),B.aU,B.lL,B.bJ)],s),B.aU,B.lL),o,B.rz,o,o,o),o)}}
+return new A.qQ(A.JO(o,A.a3A(A.a([A.QX(A.a([n,B.Cx,A.a3A(A.a([m,r,A.QX(A.a([q,A.a5m("made by MoonTree",A.n3(o,o,p,o,o,o,o,o,o,o,o,16,o,o,o,o,!0,o,o,o,o,o,o,o,o),o,o)],s),B.aU,B.cS,B.bJ)],s),B.aU,B.cS)],s),B.aU,B.lL,B.bJ)],s),B.aU,B.lL),o,B.rz,o,o,o),o)}}
 A.NW.prototype={
 $0(){return $.i2().hI("open",["https://play.google.com/store/apps/details?id=com.moontree.mobile&hl=en_US&gl=US"])},
 $S:0}
